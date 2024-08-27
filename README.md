@@ -1,4 +1,7 @@
-[![MasterHead](https://i.pinimg.com/originals/3d/c9/8e/3dc98e10a8cef3affa7c30e4b79453bc.gif)](https://NaheedaTokhi.io)
+<a href="https://NaheedaTokhi.io">
+  <img src="https://i.pinimg.com/originals/3d/c9/8e/3dc98e10a8cef3affa7c30e4b79453bc.gif" alt="MasterHead" width="1000"/>
+</a>
+
 <h1 align="center">Hi 👋, I'm Naheeda Tokhi</h1>
 <h3 align="center">A passionate web developer in Deutchland</h3>
 <p align="center">I'm a web developer with a passion for [HTML], [CSS], and [Javascript]. I love working on open source projects and constantly learning new things.</p>
