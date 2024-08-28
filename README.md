@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Naheeda Tokhi</h1>
-<h3 align="center">A passionate web developer in Deutchland</h3>
+<h3 align="center">Web development student in DCI</h3>
 <p align="center">I'm a web developer with a passion for [HTML], [CSS], and [Javascript]. I love working on open source projects and constantly learning new things.</p>
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306545.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1724544000&semt=ais_hybrid">
